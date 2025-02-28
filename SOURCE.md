@@ -22,4 +22,4 @@ PHARRELLWILLIAMS.COM
 
 COLUMBIARECORDS.COM
 
-[sony-logo.png]
+[song-logo.png]
